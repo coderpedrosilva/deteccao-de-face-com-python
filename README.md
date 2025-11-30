@@ -35,6 +35,8 @@ python code.py
 - Será exibida uma janela com a imagem detectada.  
 - A imagem resultante será salva como `resultado.png`.
 
+![Resultado da execução](resultado.png)
+
 ## Observações
 - O classificador Haar Cascade já vem junto com o OpenCV.  
 - Caso nenhuma face seja detectada, o script ainda salva a imagem normalmente.
