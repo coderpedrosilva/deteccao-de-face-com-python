@@ -1,4 +1,4 @@
-# Detecção de Faces com OpenCV
+# Detecção de Faces com Python e OpenCV
 
 Este repositório contém um script em Python para detecção de faces em uma imagem utilizando **OpenCV** e exibição do resultado com **Matplotlib**.  
 O código lê uma imagem, aplica um classificador pré-treinado de face frontal, desenha retângulos ao redor das faces detectadas e salva a imagem resultante em disco.
